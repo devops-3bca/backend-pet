@@ -27,5 +27,8 @@ It is containerized with **Docker** and integrates with **SonarQube** (via Docke
 - SonarQube
 
 ---
+## Rnder Running Status
+   <img width="1915" height="722" alt="render" src="https://github.com/user-attachments/assets/e97293bb-cf8b-41b3-bc23-79e3e7187a46" />
 
+## Sonar Analysis for Backend 
 <img width="1918" height="482" alt="sonar" src="https://github.com/user-attachments/assets/a920543d-f555-4447-9796-5dcb0fe614b5" />
